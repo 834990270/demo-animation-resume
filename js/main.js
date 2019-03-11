@@ -47,7 +47,8 @@ html{
 .token.property{ color: #905; }
 /* 加一个呼吸效果 */
 #code{
-  animation: breath 0.5s infinite alternate-reverse;
+  animation: breath 1s infinite alternate-reverse;
+  
 }
 /* 现在正式开始 */
 /* 我需要一张白纸 */
